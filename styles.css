@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+setlist {
+    background-color: #F4F1EB;
+}
+
+h1 {
+    display:block;
+    text-align: center;
+    font-size: 85px;
+    font-weight: 200;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: didot;
+    color: #202932;
+}
+
+h2{
+    display:block;
+    text-align: center;  
+    font-size: 30px;
+    font-family: times;
+    font-weight:100;
+    color: #876c64;
+}
+
+song {
+    display:block; 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    padding: 8px;
+}
+
+song {
+    padding: 10px; 
+    border-bottom: 10px solid #9ba4ad;}
+
+song title {
+    color: #354553;
+    font-size: 30px;
+    font-weight: 700;}
+
+
+song artist:before {content: "original by: "; font-size:14px;}
+song artist { 
+    display:block;
+    color: #876c64;
+    font-size: 16px;
+}
+
+song genre:before {content: "genre: "; font-size:14px;}
+song genre { 
+    display:block;
+    color: #876c64;
+}
+
+song dateReleased:before {content: "date released: "; font-size:14px;}
+song dateReleased {
+    color: #876c64;
+}

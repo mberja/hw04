@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "styles.css" ?>
+
+<!-- JUNGKOOKS COVERS -->
+<setlist>
+    
+
+    <h1> COVER SONGS </h1>
+    <h2> by: jeon jungkook</h2>
+    
+	<song>
+        <title>2U</title>
+        <artist>david guetta ft. justin bieber</artist>
+		<genre>dance / electronic</genre>
+        <dateReleased>
+            <month>september</month>
+            <year>2017</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Paper Hearts</title>
+        <artist>tori kelly</artist>
+		<genre>pop</genre>
+        <dateReleased>
+            <month>december</month>
+            <year>2015</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>10000 Hours</title>
+        <artist>dan and shay</artist>
+		<genre>country</genre>
+        <dateReleased>
+            <month>february</month>
+            <year>2016</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>We Don't Talk Anymore (ft. JIMIN)</title>
+        <artist>charlie puth</artist>
+		<genre>pop</genre>
+        <dateReleased>
+            <month>february</month>
+            <year>2017</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Only Then 그때 헤어지면 돼</title>
+        <artist>roy king</artist>
+		<genre>korean pop</genre>
+        <dateReleased>
+            <month>march</month>
+            <year>2018</year>
+        </dateReleased>
+    </song>
+    
+    
+    <song>
+        <title>FOOLS</title>
+        <artist>troye sivan</artist>
+		<genre>pop</genre>
+        <dateReleased>
+            <month>december</month>
+            <year>2015</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Ending Scene</title>
+        <artist>iu</artist>
+		<genre>korean pop</genre>
+        <dateReleased>
+            <month>january</month>
+            <year>2019</year>
+        </dateReleased>
+    </song>
+    
+    
+    <song>
+        <title>so far away</title>
+        <artist>suga</artist>
+		<genre>hip hop</genre>
+        <dateReleased>
+            <month>june</month>
+            <year>2017</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>If You</title>
+        <artist>bigbang</artist>
+		<genre>ballad</genre>
+        <dateReleased>
+            <month>august</month>
+            <year>2016</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Nothing Like Us</title>
+        <artist>justin bieber</artist>
+		<genre>pop</genre>
+        <dateReleased>
+            <month>february</month>
+            <year>2016</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Lost Stars</title>
+        <artist>adam levine</artist>
+		<genre>pop</genre>
+        <dateReleased>
+            <month>october</month>
+            <year>2015</year>
+        </dateReleased>
+    </song>
+    
+    <song>
+        <title>Oh Holy Night</title>
+        <artist>mariah carey</artist>
+		<genre>christmas</genre>
+        <dateReleased>
+            <month>december</month>
+            <year>2017</year>
+        </dateReleased>
+    </song>
+    
+ </setlist>
